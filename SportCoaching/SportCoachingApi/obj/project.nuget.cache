@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bA+H74wye+2kC7SAIvdDuZrq7grxL54yH8obA2TrK64piudV51HnLGJ1CtBd47cFmzOPDX2SiPrDLeWTbYXCbQ==",
+  "dgSpecHash": "IFyOlRS9L/TF8wycFTuZC8eP0dGRvoqUKT7qq3MJME3Ldd9RLDK4exgkMda0HuCGEaCPLHarq8t1Fws2KGXUNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\Desktop\\WebAPI_MVC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\WebAPI_MC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.5\\microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.5\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.5.nupkg.sha512",

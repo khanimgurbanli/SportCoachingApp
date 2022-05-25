@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Desktop\\WebAPI_MVC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\WebAPI_MC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Desktop\\WebAPI_MVC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj": {
+    "C:\\Users\\ACER\\Desktop\\WebAPI_MC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\WebAPI_MVC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\WebAPI_MC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj",
         "projectName": "SportCoachingApi",
-        "projectPath": "C:\\Users\\ACER\\Desktop\\WebAPI_MVC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\WebAPI_MC\\SportCoaching\\SportCoachingApi\\SportCoachingApi.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Desktop\\WebAPI_MVC\\SportCoaching\\SportCoachingApi\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\WebAPI_MC\\SportCoaching\\SportCoachingApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
